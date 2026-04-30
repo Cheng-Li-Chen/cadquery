@@ -3,7 +3,8 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Large generated STL/STEP files (can be regenerated from notebook)
-holder_v*.stl
-holder_v*.step
-holder_open.step
+# 3D model files (can be regenerated from notebook)
+*.stl
+*.step
+*.iges
+online-models/
